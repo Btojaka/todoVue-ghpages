@@ -1,7 +1,145 @@
-# Vue 3 + Vite
+# ESPAÑOL
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# TodoVue - Lista de Tareas
 
-## Recommended IDE Setup
+Este es un proyecto simple de lista de tareas desarrollado con Vue 3 y Vite, y desplegado en GitHub Pages.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Características
+
+- Añadir, editar y eliminar tareas.
+- Categorizar tareas por tipo (Trabajo, Personal, Familia, Estudios).
+- Guardar y restaurar sesiones utilizando `localStorage`.
+
+## Instrucciones de uso
+
+1. **Clonar el repositorio:**
+
+   ```bash
+   git clone https://github.com/Btojaka/todoVue-ghpages.git
+   cd todoVue-ghpages
+   ```
+
+2. **Instalar las dependencias:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Iniciar el servidor de desarrollo:**
+
+   ```bash
+   npm run dev
+   ```
+
+4. **Construir para producción:**
+
+   ```bash
+   npm run build
+   ```
+
+5. **Desplegar en GitHub Pages:**
+   ```bash
+   npm run deploy
+   ```
+
+---
+
+# TodoVue - To-Do List
+
+This is a simple to-do list project developed with Vue 3 and Vite, and deployed on GitHub Pages.
+
+## Features
+
+- Add, edit, and delete tasks.
+- Categorize tasks by type (Business, Personal, Family, Studies).
+- Save and restore sessions using `localStorage`.
+
+## Usage Instructions
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Btojaka/todoVue-ghpages.git
+   cd todoVue-ghpages
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production:**
+
+   ```bash
+   npm run build
+   ```
+
+5. **Deploy to GitHub Pages:**
+   ```bash
+   npm run deploy
+   ```
+
+---
+
+## Enlaces
+
+- **Producción:** [Ver aplicación](https://btojaka.github.io/todoVue-ghpages/)
+- **Repositorio:** [GitHub](https://github.com/Btojaka/todoVue-ghpages)
+
+# ENGLISH
+
+# TodoVue - To-Do List
+
+This is a simple to-do list project developed with Vue 3 and Vite, and deployed on GitHub Pages.
+
+## Features
+
+- Add, edit, and delete tasks.
+- Categorize tasks by type (Business, Personal, Family, Studies).
+- Save and restore sessions using `localStorage`.
+
+## Usage Instructions
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Btojaka/todoVue-ghpages.git
+   cd todoVue-ghpages
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production:**
+
+   ```bash
+   npm run build
+   ```
+
+5. **Deploy to GitHub Pages:**
+   ```bash
+   npm run deploy
+   ```
+
+---
+
+## Enlaces
+
+- **Producción:** [Ver aplicación](https://btojaka.github.io/todoVue-ghpages/)
+- **Repositorio:** [GitHub](https://github.com/Btojaka/todoVue-ghpages)
