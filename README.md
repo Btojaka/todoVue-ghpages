@@ -99,5 +99,5 @@ This is a simple to-do list project developed with Vue 3 and Vite, and deployed 
 
 ## Links
 
-- **Production:** [Ver aplicación](https://btojaka.github.io/todoVue-ghpages/)
+- **Production:** [App](https://btojaka.github.io/todoVue-ghpages/)
 - **Repository:** [GitHub](https://github.com/Btojaka/todoVue-ghpages)
