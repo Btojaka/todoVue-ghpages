@@ -42,6 +42,12 @@ Este es un proyecto simple de lista de tareas desarrollado con Vue 3 y Vite, y d
    npm run deploy
    ```
 
+
+## Enlaces
+
+- **Producción:** [Ver aplicación](https://btojaka.github.io/todoVue-ghpages/)
+- **Repositorio:** [GitHub](https://github.com/Btojaka/todoVue-ghpages)
+
 ---
 
 
